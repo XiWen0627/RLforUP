@@ -14,6 +14,9 @@ However, compared to other machine learning paradims, the multitude of concepts 
 
 ### Outline
 This blog is structured into the following sections. Readers are encouraged to explore the parts that align with their interests:
-- A Brief Introduction to RL.  This section introduces fundamental concepts, core principles and the evolution of paradigm. It aims to provide some intuitive ideas for readers who are unfamiliar with RL.
-- Typical RL Applications in Urban Practices. In this section, we showcase how RL is applied to urban research topics. Specifically, we examine studies involving scenarios such as ridesharing, facility layout optimization, and urban design generation, illustrating how RL integrates with real-world urban planning and design tasks.
-- RL and LLMs. This section explores the role of RL in the development of LLMs and introduces some promising RL-related applications of LLMs in urban science, including LLM Agents, LLM reasoning and synthetic data.
+- A Brief Introduction to RL.
+  This section introduces fundamental concepts, core principles and the evolution of paradigm. It aims to provide some intuitive ideas for readers who are unfamiliar with RL.
+- Typical RL Applications in Urban Practices.
+  In this section, we showcase how RL is applied to urban research topics. Specifically, we examine studies involving scenarios such as ridesharing, facility layout optimization, and urban design generation, illustrating how RL integrates with real-world urban planning and design tasks.
+- RL and LLMs.
+  This section explores the role of RL in the development of LLMs and introduces some promising RL-related applications of LLMs in urban science, including LLM Agents, LLM reasoning and synthetic data.
